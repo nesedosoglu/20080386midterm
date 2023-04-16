@@ -32,7 +32,7 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 <!-- ======================================================================= -->
 <!-- ============================== FOOTNOTES ============================== -->
 <!-- ======================================================================= -->
-[^1]: Student ID, [Github Repo](https://github.com/nesedosoglu/20080386)
+[^1]: 20080386, [Github Repo](https://github.com/nesedosoglu/20080386)
 
 
 # Introduction
@@ -44,7 +44,7 @@ The emergence of automated prediction systems has transformed the real estate in
 
 Numerous research studies have been conducted on house price prediction, where machine learning models have been frequently utilized. These models are well-suited for the task because they can analyze large datasets and detect patterns that may take time to be evident to humans.
 
-@wang:2019 uses house price prediction model based on deep learning is proposed in this paper, implemented on the TensorFlow framework. @park:2015 uses various regression techniques in this pathway, and our results are not the sole determination of one technique. Instead, it is the weighted mean of various techniques to give the most accurate results. @gebru:2017 proposes a pipeline that uses a deep neural network model to automatically extract visual features from images to estimate house prices. @gokalani:2022 focuses on applying different regression algorithms to find the sales price prediction of the house. @park:2015 concepts that housing prices are influenced by characteristics such as location, distance, and region is known as price prediction. It uses Linear Regression (LR) and other Machine Learning algorithms to forecast the price of real estate. @Konwar:2021 develops algorithms, builds models from data, and uses them to predict new data. Also uses various algorithms explained below in various combinations, and each algorithm's result is given based on the accuracy percentage.
+@wang:2019 uses house price prediction model based on deep learning is proposed in this paper, implemented on the TensorFlow framework. @madhuri:2019 the main motivation of the project FORECASTING VARIATIONS ON HOUSE PRICE was to make the best possible prediction of house prices by using appropriate algorithms and find out which among them is best suitable for predicting the price with a low error rate. @gebru:2017 proposes a pipeline that uses a deep neural network model to automatically extract visual features from images to estimate house prices. @gokalani:2022 focuses on applying different regression algorithms to find the sales price prediction of the house. @park:2015 concepts that housing prices are influenced by characteristics such as location, distance, and region is known as price prediction. It uses Linear Regression (LR) and other Machine Learning algorithms to forecast the price of real estate. @Konwar:2021 develops algorithms, builds models from data, and uses them to predict new data. Also uses various algorithms explained below in various combinations, and each algorithm's result is given based on the accuracy percentage.
 
 ## Dataset
 
